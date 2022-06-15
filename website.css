@@ -1,0 +1,50 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.SomaSlate {
+    font-size: 60px;
+    color: #ffffff;
+    padding-top: 5%;
+    font-weight: 700;
+    display:flex;
+    justify-content:center;
+    padding-bottom: 2%;
+}
+
+.slogan {
+    font-size: 25px;
+    color: #ffffff;
+    font-weight: 500;
+    display:flex;
+    justify-content:center;
+    text-decoration: underline;
+    margin-bottom: 10%;
+}
+
+.whatwedo {
+    font-size: 25px;
+    margin-right: 70%;
+    text-align: center;
+}
+
+
+table, th, td {
+    color: white;
+}
+
+.categorytitle {
+    font-size: 25px;
+}
+.categoryfillerleft {
+    margin-top: 2%;
+    margin-right: 70%;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 15%;
+    margin-right: 65%;
+}
