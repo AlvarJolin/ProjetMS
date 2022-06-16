@@ -74,3 +74,18 @@ table, th, td {
   margin-left: auto;
   margin-right: auto;
 }
+
+
+.logos {
+    display: block;
+    width: 100%;
+    margin-top: 3%;
+}
+
+
+.logosdiv {
+    display: block;
+    width: 100%;
+    margin-top: 3%;
+}
+
