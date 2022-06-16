@@ -46,5 +46,14 @@ table, th, td {
     text-align: justify;
     text-justify: inter-word;
     margin-left: 15%;
-    margin-right: 65%;
+    margin-right: 15%;
+}
+
+.categoryfillerright {
+    margin-top: 2%;
+    margin-right: 70%;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 15%;
+    margin-right: 15%;
 }
