@@ -137,7 +137,7 @@
 
 
 
-@media only screen and (max-device-width:499px) {
+@media only screen and (max-device-width:999px) {
     *{
         margin:0px;
         padding: 0px;
