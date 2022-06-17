@@ -79,7 +79,7 @@
    
    
    
-       .socialmediadiv {
+    .socialmediadiv {
         color: #fff;
         font-family: 'Open Sans', sans-serif;
         display:flex;
@@ -213,40 +213,39 @@
 
 
     .imagediv {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
    
     .socialmediadiv {
-       color: #fff;
-       font-family: 'Open Sans', sans-serif;
-       display: block;
-       margin-left: auto;
-       margin-right: auto;
-       width: 90%;
+        color: #fff;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
 
     }
 
     .socialmediabutton {
-       
-       margin-top: 5%;
-       background-color:goldenrod;
-       height: 27px;
-       width: 30%;
-       display: flex;
-       justify-content: center;
-       text-align: center;
-       align-items: center;
-       font-family: 'Open Sans', sans-serif;
-       font-weight:700;
-       border: none;
-       font-size: 15px;
-       border-top-left-radius: 5px;
-       border-bottom-left-radius: 5px;
-       border-top-right-radius: 5px;
-       border-bottom-right-radius: 5px;
-       margin-bottom: 2%;
-       cursor:pointer;
+        margin-top: 5%;
+        background-color:goldenrod;
+        height: 27px;
+        width: 30%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        font-family: 'Open Sans', sans-serif;
+        font-weight:700;
+        border: none;
+        font-size: 15px;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-bottom: 2%;
+        cursor:pointer;
     }
 }
