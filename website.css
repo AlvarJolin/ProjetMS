@@ -1,91 +1,211 @@
-*{
-    margin:0px;
-    padding: 0px;
-    box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+@media only screen and (min-device-width:1000px) {
+    *{
+        margin:0px;
+        padding: 0px;
+        box-sizing: border-box;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+
+    .SomaSlate {
+        font-size: 60px;
+        color: #ffffff;
+        padding-top: 5%;
+        font-weight: 700;
+        display:flex;
+        justify-content:center;
+        padding-bottom: 2%;
+    }
+
+    .slogan {
+        font-size: 25px;
+        color: #ffffff;
+        font-weight: 500;
+        display:flex;
+        justify-content:center;
+        text-decoration: underline;
+        margin-bottom: 2%;
+    }
+
+    .whatwedo {
+        font-size: 25px;
+        margin-right: 70%;
+        text-align: center;
+    }
+
+
+    table, th, td {
+        color: white;
+    }
+
+    .categorytitle {
+        font-size: 25px;
+    }
+    .categoryfillerleft {
+        margin-top: 2%;
+        margin-right: 70%;
+        text-align: justify;
+        text-justify: inter-word;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+    .categoryfillerright {
+        margin-top: 2%;
+        margin-right: 70%;
+        text-align: justify;
+        text-justify: inter-word;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+
+
+    .imagedemo {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 70%;
+      margin-top: 3%;
+    }
+
+
+    .imagediv {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+
+    .logos {
+        display: block;
+        width: 100%;
+        margin-top: 3%;
+    }
+
+
+    .logosdiv {
+        display: block;
+        width: 100%;
+        margin-top: 3%;
+    }
 }
 
 
-.SomaSlate {
-    font-size: 60px;
-    color: #ffffff;
-    padding-top: 5%;
-    font-weight: 700;
-    display:flex;
-    justify-content:center;
-    padding-bottom: 2%;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-device-width:499px) {
+    *{
+        margin:0px;
+        padding: 0px;
+        box-sizing: border-box;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+
+    .SomaSlate {
+        font-size: 60px;
+        color: #ffffff;
+        padding-top: 5%;
+        font-weight: 700;
+        display:flex;
+        justify-content:center;
+        padding-bottom: 2%;
+    }
+
+    .slogan {
+        font-size: 25px;
+        color: #ffffff;
+        font-weight: 500;
+        display:flex;
+        justify-content:center;
+        text-decoration: underline;
+        margin-bottom: 2%;
+    }
+
+    .whatwedo {
+        font-size: 25px;
+        margin-right: 70%;
+        text-align: center;
+    }
+
+
+    table, th, td {
+        color: white;
+    }
+
+    .categorytitle {
+        font-size: 25px;
+    }
+    .categoryfillerleft {
+        margin-top: 2%;
+        margin-right: 70%;
+        text-align: justify;
+        text-justify: inter-word;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+    .categoryfillerright {
+        margin-top: 2%;
+        margin-right: 70%;
+        text-align: justify;
+        text-justify: inter-word;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+
+
+    .imagedemo {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 70%;
+      margin-top: 3%;
+    }
+
+
+    .imagediv {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+
+    .logos {
+        display: block;
+        width: 100%;
+        margin-top: 3%;
+    }
+
+
+    .logosdiv {
+        display: block;
+        width: 100%;
+        margin-top: 3%;
+    }
 }
-
-.slogan {
-    font-size: 25px;
-    color: #ffffff;
-    font-weight: 500;
-    display:flex;
-    justify-content:center;
-    text-decoration: underline;
-    margin-bottom: 2%;
-}
-
-.whatwedo {
-    font-size: 25px;
-    margin-right: 70%;
-    text-align: center;
-}
-
-
-table, th, td {
-    color: white;
-}
-
-.categorytitle {
-    font-size: 25px;
-}
-.categoryfillerleft {
-    margin-top: 2%;
-    margin-right: 70%;
-    text-align: justify;
-    text-justify: inter-word;
-    margin-left: 15%;
-    margin-right: 15%;
-}
-
-.categoryfillerright {
-    margin-top: 2%;
-    margin-right: 70%;
-    text-align: justify;
-    text-justify: inter-word;
-    margin-left: 15%;
-    margin-right: 15%;
-}
-
-
-
-.imagedemo {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 70%;
-  margin-top: 3%;
-}
-
-
-.imagediv {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-
-.logos {
-    display: block;
-    width: 100%;
-    margin-top: 3%;
-}
-
-
-.logosdiv {
-    display: block;
-    width: 100%;
-    margin-top: 3%;
-}
-
