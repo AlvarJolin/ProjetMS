@@ -218,22 +218,21 @@
         margin-right: auto;
     }
    
-    .othersearch {
+    .socialmediadiv {
         color: #fff;
         font-family: 'Open Sans', sans-serif;
         display:flex;
         justify-content:center;
         text-align: center;
         font-size: 20px;
-        margin-bottom: 25px;
-        margin-top: 25px;
+        margin-top: 20px;
+        margin-bottom: 10px;
     }
-
-    .othersearchbutton {
-        margin-top: 1%;
+    
+    .socialmediabutton {
         background-color:goldenrod;
-        height: 27px;
-        width: 40%;
+        height: 25px;
+        width: 18%;
         display: flex;
         justify-content: center;
         text-align: center;
@@ -246,7 +245,7 @@
         border-bottom-left-radius: 5px;
         border-top-right-radius: 5px;
         border-bottom-right-radius: 5px;
-        margin-bottom: 2%;
-        cursor:pointer;
+        margin-bottom: 5%;
+        cursor: pointer;
     }
 }
