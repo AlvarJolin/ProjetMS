@@ -1,5 +1,4 @@
 import cv2
-import os
 import FPS_Module
 import HandTracking_Module as htm
 
@@ -12,14 +11,7 @@ vid = cv2.VideoCapture(0)
 vid.set(3, wCam)
 vid.set(4, hCam)
 
-folderPath = "C://Users/benja/Programing/GitHub Stage 2nd MS/ProjetMS/PythonScripts/DataBase"
-list = os.listdir(folderPath)
-
 overLayList = []
-
-for imgPath in list:
-    image = cv2.imread(f'{folderPath}/{imgPath}')
-    overLayList.append(image)
     
 detector = htm.handDetector(detectionConfidence=0.5)
 
