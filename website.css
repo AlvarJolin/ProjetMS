@@ -23,7 +23,7 @@
         font-weight: 500;
         display:flex;
         justify-content:center;
-        text-decoration: underline;
+        text-decoration: none;
         margin-bottom: 2%;
     }
 
@@ -190,7 +190,7 @@
         font-weight: 500;
         display:flex;
         justify-content:center;
-        text-decoration: underline;
+        text-decoration: none;
         margin-bottom: 5%;
     }
 
