@@ -9,7 +9,7 @@
 
     .SomaSlate {
         font-size: 60px;
-        color: #ffffff;
+        color: #112569;
         padding-top: 5%;
         font-weight: 700;
         display:flex;
@@ -19,7 +19,7 @@
 
     .slogan {
         font-size: 25px;
-        color: #ffffff;
+        color: #112569;
         font-weight: 500;
         display:flex;
         justify-content:center;
@@ -35,7 +35,7 @@
 
 
     table, th, td {
-        color: white;
+        color: #112569;
     }
 
     .categorytitle {
@@ -49,7 +49,8 @@
         margin-left: 15%;
         margin-right: 15%;
         border-color: white;
-        color: white;
+        border-width: 3px;
+        color: #112569;
        
     }
 
@@ -61,7 +62,8 @@
         margin-left: 15%;
         margin-right: 15%;
         border-color: white;
-        color: white;
+        color: #112569;
+        border-width: 3px;
     }
 
 
@@ -153,7 +155,7 @@
 
     .SomaSlate {
         font-size: 60px;
-        color: #ffffff;
+        color: #112569;
         padding-top: 5%;
         font-weight: 700;
         display:flex;
@@ -164,7 +166,7 @@
 
     .slogan {
         font-size: 25px;
-        color: #ffffff;
+        color: #112569;
         font-weight: 500;
         display:flex;
         justify-content:center;
@@ -180,7 +182,7 @@
 
 
     table, th, td {
-        color: white;
+        color: #112569;
     }
 
     .categorytitle {
@@ -195,7 +197,8 @@
         margin-right: 15%;
         font-size: 10px;
         border-color: white;
-        color: white;
+        color: #112569;
+        border-width: 3px;
     }
 
     .categoryfillerright {
@@ -207,7 +210,8 @@
         margin-right: 15%;
         font-size: 10px;
         border-color: white;
-        color: white;
+        color: #112569;
+        border-width: 3px;
     }
 
 
