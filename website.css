@@ -41,6 +41,8 @@
     .categorytitle {
         font-size: 25px;
     }
+   
+   
     .categoryfillerleft {
         margin-top: 2%;
         margin-right: 70%;
@@ -66,9 +68,27 @@
         border-width: 3px;
     }
 
+    .lefttext {
+       border-color: black;
+       border-width: 3px;
+       margin-right: 70%;
+       text-align: justify;
+       margin-left: 15%;
+       margin-right: 15%;
+    }
+   
+   
+    .righttext {
+        margin-right: 70%;
+        text-align: justify;
+        text-justify: inter-word;
+        margin-left: 15%;
+        margin-right: 15%;
+        border-color: black;
+        border-width: 15%;
+    }
 
-
-    .imagedemo {
+    .imagedemo { 
       display: block;
       margin-left: auto;
       margin-right: auto;
