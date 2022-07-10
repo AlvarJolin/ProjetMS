@@ -19,7 +19,7 @@
 
     .slogan {
         font-size: 25px;
-        color: red;
+        color: #112569;
         font-weight: 500;
         display:flex;
         justify-content:center;
@@ -101,7 +101,7 @@
     }
     
     .socialmediabutton {
-        background-color:black;
+        background-color:white;
         height: 25px;
         width: 18%;
         display: flex;
@@ -248,7 +248,7 @@
     }
     
     .socialmediabutton {
-        background-color:black;
+        background-color:white;
         height: 25px;
         width: 40%;
         display: flex;
