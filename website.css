@@ -35,7 +35,7 @@
 
 
     table, th, td {
-        color: black;
+        color: white;
     }
 
     .categorytitle {
@@ -49,6 +49,8 @@
         margin-left: 15%;
         margin-right: 15%;
         background-color: white;
+        color: rgb(20, 64, 79);
+       
     }
 
     .categoryfillerright {
@@ -59,6 +61,7 @@
         margin-left: 15%;
         margin-right: 15%;
         background-color: white;
+        color: rgb(20, 64, 79);
     }
 
 
