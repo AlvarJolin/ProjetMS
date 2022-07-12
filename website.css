@@ -9,7 +9,7 @@
 
     .SomaSlate {
         font-size: 60px;
-        color: #112569;
+        color: red;
         padding-top: 5%;
         font-weight: 700;
         display:flex;
@@ -36,26 +36,26 @@
    
     .bigfactleft {
         font-size: 25px;
-        margin-left: 10%;
+        margin-left: -10%;
     }
    
    
      .bigfactright {
         font-size: 25px;
-        margin-left: 75%;
+        margin-left: -10%;
      }
    
    
    
     .answerleft {
         font-size: 10px;
-        margin-left: 10%;
+        margin-left: -10%;
     }
    
    
      .answerright {
         font-size: 10px;
-        margin-left: 75%;
+        margin-left: 40%;
      }
        
        
