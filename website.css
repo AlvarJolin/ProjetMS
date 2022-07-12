@@ -32,6 +32,20 @@
         margin-right: 70%;
         text-align: center;
     }
+   
+   
+    .bigfactleft {
+        font-size: 25px;
+        margin-left: 20%;
+    }
+   
+   
+     .bigfactleft {
+        font-size: 25px;
+        margin-left: 75%;
+     }
+       
+       
 
 
     table, th, td {
@@ -99,7 +113,7 @@
     }
     
     .socialmediabutton {
-        background-color: #cccccc;
+        background-color: white;
         height: 25px;
         width: 18%;
         display: flex;
@@ -244,7 +258,7 @@
     }
     
     .socialmediabutton {
-        background-color: #cccccc;
+        background-color: white;
         height: 25px;
         width: 40%;
         display: flex;
