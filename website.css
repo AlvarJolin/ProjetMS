@@ -99,7 +99,7 @@
     }
     
     .socialmediabutton {
-        background-color:white;
+        background-color: #cccccc;
         height: 25px;
         width: 18%;
         display: flex;
@@ -244,7 +244,7 @@
     }
     
     .socialmediabutton {
-        background-color:white;
+        background-color: #cccccc;
         height: 25px;
         width: 40%;
         display: flex;
