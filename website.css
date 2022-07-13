@@ -26,6 +26,9 @@
      text-decoration: none;
      font-size: 17px;
      cursor: wait;
+     border-style: solid;
+     border-color: black;
+     border-width: 1px;
    }
 
    .topnav a:hover {
@@ -33,6 +36,9 @@
      color: black;
      font-family: 'Open Sans', sans-serif;
      cursor: wait;
+     border-style: solid;
+     border-color: black;
+     border-width: 1px;
    }
 
    .topnav a.active {
@@ -40,11 +46,21 @@
      color: black;
      font-family: 'Open Sans', sans-serif;
      cursor: wait;
+     border-style: solid;
+     border-color: black;
+     border-width: 1px;
+   }
+   
+   
+   .homebuttontext {
+     color: white;
+     font-family: 'Open Sans', sans-serif;
+     cursor: wait;
    }
 
     .SomaSlate {
         font-size: 60px;
-        color: red;
+        color: #112569;
         padding-top: 5%;
         font-weight: 700;
         display:flex;
