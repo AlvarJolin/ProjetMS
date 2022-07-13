@@ -8,8 +8,11 @@
 
 
    .topnav {
-     background-color: #7a7a7a;
+     background-color: white;
      overflow: hidden;
+     border-style: solid;
+     border-color: black;
+     border-width: 1px;
    }
 
    .topnav a {
