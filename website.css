@@ -4,6 +4,7 @@
         padding: 0px;
         box-sizing: border-box;
         font-family: 'Open Sans', sans-serif;
+        cursor: wait;
     }
 
 
@@ -13,28 +14,32 @@
      border-style: solid;
      border-color: black;
      border-width: 1px;
+     cursor: wait;
    }
 
    .topnav a {
      float: left;
      font-family: 'Open Sans', sans-serif;
-     color: white;
+     color: black;
      text-align: center;
      padding: 14px 16px;
      text-decoration: none;
      font-size: 17px;
+     cursor: wait;
    }
 
    .topnav a:hover {
-     background-color: #ddd;
-     color: white;
+     background-color: #a3a3a3;
+     color: black;
      font-family: 'Open Sans', sans-serif;
+     cursor: wait;
    }
 
    .topnav a.active {
      background-color: #112569;
-     color: white;
+     color: black;
      font-family: 'Open Sans', sans-serif;
+     cursor: wait;
    }
 
     .SomaSlate {
