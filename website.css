@@ -4,7 +4,7 @@
         padding: 0px;
         box-sizing: border-box;
         font-family: 'Open Sans', sans-serif;
-        cursor: wait;
+        cursor: not-allowed;
     }
 
 
@@ -14,7 +14,7 @@
      border-style: solid;
      border-color: black;
      border-width: 1px;
-     cursor: wait;
+     cursor: not-allowed;
    }
 
    .topnav a {
@@ -25,7 +25,7 @@
      padding: 14px 16px;
      text-decoration: none;
      font-size: 17px;
-     cursor: wait;
+     cursor: not-allowed;
      border-style: solid;
      border-color: black;
      border-width: 1px;
@@ -35,7 +35,7 @@
      background-color: #a3a3a3;
      color: black;
      font-family: 'Open Sans', sans-serif;
-     cursor: wait;
+     cursor: not-allowed;
      border-style: solid;
      border-color: black;
      border-width: 1px;
@@ -45,7 +45,7 @@
      background-color: #112569;
      color: black;
      font-family: 'Open Sans', sans-serif;
-     cursor: wait;
+     cursor: not-allowed;
      border-style: solid;
      border-color: black;
      border-width: 1px;
@@ -55,7 +55,7 @@
    .homebuttontext {
      color: white;
      font-family: 'Open Sans', sans-serif;
-     cursor: wait;
+     cursor: not-allowed;
    }
 
     .SomaSlate {
